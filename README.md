@@ -1,2 +1,2 @@
 # DCST1006
-Scripts for Infrastruktus Sikre tjenester
+Scripts for Infrastruktur Sikre tjenester.
