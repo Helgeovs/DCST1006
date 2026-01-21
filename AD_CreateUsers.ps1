@@ -192,4 +192,5 @@ function New-BulkADUsers {
     $log | Out-File -FilePath $LogPath
 }
 
+New-BulkADUsers -CsvPath "C:\Users\adm_helgeovs\Desktop\DCST1006\ADUsers.txt" -Domain "InfraIT.sec" -LogPath "C:\Users\adm_helgeovs\Desktop\DCST1006\user_log.txt"
 # 
